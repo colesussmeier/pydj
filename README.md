@@ -5,5 +5,5 @@ A music player that automatically crossfades songs at predetermined points
 
 
 ## Usage
-The physical song files in this demo cannot be uploaded to Github because it is copyrighted media. To run this program, song files must be added into a pickle file called soundFiles. These audio files should correspond to the entries in setlist.csv. In this csv, the "Start" column is when the song will start to be faded in, "Fade_in" is the number of seconds the crossfade will take, and "End" is when the song will fade out. This program is designed to run in a linux terminal by using the command "python pydj.py". 
+The physical song files in this demo cannot be uploaded to Github due to copyright laws. To run this program, song files must be added into a pickle file called soundFiles. These audio files should correspond to the entries in setlist.csv. In this csv, the "Start" column is when the song will start to be faded in, "Fade_in" is the number of seconds the crossfade will take, and "End" is when the song will fade out. This program is designed to run in a linux terminal by using the command "python pydj.py". 
 
